@@ -1,0 +1,5 @@
+* {margin: 0;}
+canvas {
+    position: absolute;
+    background-color: rgb(62, 142, 212);
+}
